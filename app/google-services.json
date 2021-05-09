@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "372749494128",
+    "firebase_url": "https://science-9f432-default-rtdb.firebaseio.com",
+    "project_id": "science-9f432",
+    "storage_bucket": "science-9f432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372749494128:android:eb1d92420cd1d1a898d1b5",
+        "android_client_info": {
+          "package_name": "com.chocowind.science"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372749494128-71a725vcmvlml6ck44fm1rc9rvr0l67c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCx1Vmq08ydQ5GvfYMFYcQo7acAKQyV9cs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372749494128-71a725vcmvlml6ck44fm1rc9rvr0l67c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
